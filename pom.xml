@@ -495,7 +495,7 @@
             </reporting>
         </profile>
     </profiles>
-    <distributionManagement>
+  <!--  <distributionManagement>
 	
     <repository>
     <id>releases</id>
@@ -513,7 +513,7 @@
     <id>releases</id>
     <name>Releases</name>
     <url>http://18.224.72.141:8081/nexus/content/repositories/releases</url>
-    </repository>
+    </repository> 
 
     <snapshotRepository>
     <id>snapshots</id>
@@ -521,7 +521,7 @@
     <url>http://18.224.72.141:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
 
-  </distributionManagement>
+  </distributionManagement> -->
 
 	
 </project>
